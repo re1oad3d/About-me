@@ -1,4 +1,4 @@
-<img src="[https://sun9-15.userapi.com/cY1R_FdqJNXhZPETuCWIYPJLiMLYIWBxl17qrQ/hUd9MhRUWHU.jpg](https://i.pinimg.com/originals/e5/3e/8c/e53e8cd3c045f964043ca1501e93d584.jpg)"/><br>
+<img src="https://i.pinimg.com/originals/e5/3e/8c/e53e8cd3c045f964043ca1501e93d584.jpg"/><br>
 - 👋 Hi, I’m re1oad3d
 - 👀 I'm a beginner programmer
 - 📈 I dream of becoming an excellent programmer
